@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact - Temple of Self Liberation</title>
+  <style>
+    body { background-color: black; color: gold; font-family: Arial, sans-serif; padding: 40px; }
+    a { color: white; }
+  </style>
+</head>
+<body>
+  <h2>Contact Us</h2>
+  <p><strong>Email:</strong> templeofselfliberation@protonmail.com</p>
+  <p><strong>Phone:</strong> (732)-354-9830 or (908)-616-0170</p>
+  <p><strong>Mailing Address:</strong><br>2 Middlesex Village Apt B<br>Middlesex, NJ 08846</p>
+  <a href="index.html">Back to Home</a>
+</body>
+</html>

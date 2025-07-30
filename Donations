@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Donate - Temple of Self Liberation</title>
+  <style>
+    body { background-color: black; color: gold; font-family: Arial, sans-serif; padding: 40px; }
+    a { color: white; }
+  </style>
+</head>
+<body>
+  <h2>Support Our Mission</h2>
+  <p>Your donations empower us to build safe sanctuaries, provide healing through sacred knowledge, and uplift communities through the teachings of Ma’at.</p>
+  <p><a href="https://gofundme.com" target="_blank">Give via GoFundMe</a></p>
+  <a href="index.html">Back to Home</a>
+</body>
+</html>

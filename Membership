@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Membership - Temple of Self Liberation</title>
+  <style>
+    body { background-color: black; color: gold; font-family: Arial, sans-serif; padding: 40px; }
+    a { color: white; }
+  </style>
+</head>
+<body>
+  <h2>Join the Movement</h2>
+  <p>Membership in the Temple of Self Liberation is open to all who commit to living by truth, peace, accountability, and balance.</p>
+  <p><strong>Step 1:</strong> Review the 142 Laws of Ma’at.<br>
+     <strong>Step 2:</strong> Fill out the <a href="https://drive.google.com">membership form</a>.<br>
+     <strong>Step 3:</strong> Await initiation notice from a Temple representative.</p>
+  <a href="index.html">Back to Home</a>
+</body>
+</html>

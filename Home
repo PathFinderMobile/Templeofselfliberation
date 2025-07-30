@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Temple of Self Liberation</title>
+  <style>
+    body { background-color: #000; color: white; font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background: #111; padding: 20px; text-align: center; }
+    nav a { color: gold; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    section { padding: 40px 20px; max-width: 800px; margin: auto; }
+    h1, h2 { color: gold; }
+    .button { background: gold; color: black; padding: 10px 20px; text-decoration: none; display: inline-block; margin-top: 20px; }
+    footer { background-color: #111; color: #aaa; text-align: center; padding: 10px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Temple of Self Liberation</h1>
+    <nav>
+      <a href="about.html">About</a>
+      <a href="membership.html">Membership</a>
+      <a href="donate.html">Donate</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>🕊️ Declaration of Faith</h2>
+    <p>We, the members of the Temple of Self Liberation, affirm our sacred commitment to truth, justice, balance, and righteousness. Rooted in the ancient spiritual wisdom of the 142 Laws of Ma’at, we believe that liberation begins within and radiates outward into the world...</p>
+    <a class="button" href="https://drive.google.com">Download 142 Laws of Ma’at</a>
+  </section>
+
+  <footer>
+    &copy; 2025 Temple of Self Liberation. All rights reserved.
+  </footer>
+</body>
+</html>
